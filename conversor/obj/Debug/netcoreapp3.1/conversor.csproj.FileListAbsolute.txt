@@ -1,0 +1,13 @@
+C:\Users\Adolfo Gotler\OneDrive - Smarkets (1)\Documentos\GitHub\SDM_FAESA\conversor\bin\Debug\netcoreapp3.1\conversor.exe
+C:\Users\Adolfo Gotler\OneDrive - Smarkets (1)\Documentos\GitHub\SDM_FAESA\conversor\bin\Debug\netcoreapp3.1\conversor.deps.json
+C:\Users\Adolfo Gotler\OneDrive - Smarkets (1)\Documentos\GitHub\SDM_FAESA\conversor\bin\Debug\netcoreapp3.1\conversor.runtimeconfig.json
+C:\Users\Adolfo Gotler\OneDrive - Smarkets (1)\Documentos\GitHub\SDM_FAESA\conversor\bin\Debug\netcoreapp3.1\conversor.runtimeconfig.dev.json
+C:\Users\Adolfo Gotler\OneDrive - Smarkets (1)\Documentos\GitHub\SDM_FAESA\conversor\bin\Debug\netcoreapp3.1\conversor.dll
+C:\Users\Adolfo Gotler\OneDrive - Smarkets (1)\Documentos\GitHub\SDM_FAESA\conversor\bin\Debug\netcoreapp3.1\conversor.pdb
+C:\Users\Adolfo Gotler\OneDrive - Smarkets (1)\Documentos\GitHub\SDM_FAESA\conversor\obj\Debug\netcoreapp3.1\conversor.AssemblyInfoInputs.cache
+C:\Users\Adolfo Gotler\OneDrive - Smarkets (1)\Documentos\GitHub\SDM_FAESA\conversor\obj\Debug\netcoreapp3.1\conversor.AssemblyInfo.cs
+C:\Users\Adolfo Gotler\OneDrive - Smarkets (1)\Documentos\GitHub\SDM_FAESA\conversor\obj\Debug\netcoreapp3.1\conversor.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo Gotler\OneDrive - Smarkets (1)\Documentos\GitHub\SDM_FAESA\conversor\obj\Debug\netcoreapp3.1\conversor.dll
+C:\Users\Adolfo Gotler\OneDrive - Smarkets (1)\Documentos\GitHub\SDM_FAESA\conversor\obj\Debug\netcoreapp3.1\conversor.pdb
+C:\Users\Adolfo Gotler\OneDrive - Smarkets (1)\Documentos\GitHub\SDM_FAESA\conversor\obj\Debug\netcoreapp3.1\conversor.genruntimeconfig.cache
+C:\Users\Adolfo Gotler\OneDrive - Smarkets (1)\Documentos\GitHub\SDM_FAESA\conversor\obj\Debug\netcoreapp3.1\conversor.csproj.AssemblyReference.cache

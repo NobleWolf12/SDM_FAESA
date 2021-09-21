@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qu5CxiR0LMpxUUFZLVGpriLRzOt84i8H9/jpKrBf2MGk73RCqMCN8rR/VsYNyngwnBV0NG3DWejiPJAf78eoxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adolfo Gotler\\OneDrive - Smarkets (1)\\Documentos\\GitHub\\SDM_FAESA\\conversor\\conversor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adolfo Gotler\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
