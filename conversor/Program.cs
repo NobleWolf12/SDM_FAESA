@@ -53,6 +53,7 @@ namespace conversor
                 else {
                     repetir = "não";
                     Console.WriteLine("Até mais!!!");
+                    Console.WriteLine("Adolfo Santos Gotler");
                 }
 
             } while (repetir == "sim");
